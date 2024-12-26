@@ -1,0 +1,8 @@
+{
+    "inference": {
+      "enabled": true,
+      "cpu_offload": true,
+      "pin_memory": true
+    }
+  }
+  
